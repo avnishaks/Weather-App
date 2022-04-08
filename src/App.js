@@ -77,8 +77,7 @@ function App() {
               <h2 className="app-name">Weather App</h2>
               <p className="comps">
                 With React.js<br/>
-                12th December, 2020<br/>
-                By Debjit Pramanick
+                By Avnish Kumar
               </p>
               <div className="welcome-text">
                 <h1>welcome</h1>
